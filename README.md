@@ -21,9 +21,7 @@ Visit Website: https://goqr.me/api/
 - Download or clone the repository
 
 ```
-Website : 
+Website : https://manthanugemuge.github.io/QRCodeGenerator/
 
 ```
-
-- Go to the directory
-- Run the index.html file
+Run Directly - https://manthanugemuge.github.io/QRCodeGenerator/
