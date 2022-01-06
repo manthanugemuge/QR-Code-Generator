@@ -18,10 +18,10 @@ Visit Website: https://goqr.me/api/
 ## How to use Project
 
 
-- Download or clone the repository
-
+- Download or clone the repository Website : 
+ 
 ```
-Website : https://manthanugemuge.github.io/QRCodeGenerator/
+https://github.com/ManthanUgemuge/QRCodeGenerator.git
 
 ```
 Run Directly - https://manthanugemuge.github.io/QRCodeGenerator/
