@@ -25,4 +25,4 @@ Visit Website: https://goqr.me/api/
 https://github.com/ManthanUgemuge/QRCodeGenerator.git
 
 ```
-Run Directly - [Clickhere](https://manthanugemuge.github.io/QRCodeGenerator/)
+Run Directly - [QR Code Generator](https://manthanugemuge.github.io/QRCodeGenerator/)
