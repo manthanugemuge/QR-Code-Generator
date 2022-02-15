@@ -1,5 +1,5 @@
 # QR Code Generator
-A Simple QR Code Generator using Basic Html, CSS, Javascript & QR Code Generator Api.
+A Simple QR Code Generator using Basic Html, CSS, Javascript & QR Code Generator API.
 
 ## About The Project
 
