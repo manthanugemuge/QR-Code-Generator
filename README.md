@@ -13,7 +13,7 @@ A Simple Web Application which will generate a QR Code of Name typed.
 
 ## API Used
 
-Visit Website: https://goqr.me/api/
+- Visit Website: https://goqr.me/api/
 
 ## How to use Project
 
@@ -23,7 +23,7 @@ Visit Website: https://goqr.me/api/
 https://github.com/ManthanUgemuge/QRCodeGenerator.git
 
 ```
-Run Directly - [QR Code Generator](https://manthanugemuge.github.io/QRCodeGenerator/)
+- Run Directly - [QR Code Generator](https://manthanugemuge.github.io/QRCodeGenerator/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
