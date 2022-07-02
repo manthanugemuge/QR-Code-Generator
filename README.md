@@ -19,7 +19,7 @@ Made using help of [Goqr Api](https://goqr.me/api/) .
 
 ## How to use Project
 
-- Download or clone the repository Website : 
+- Download or Clone the repository Website : 
  
 ```
 https://github.com/ManthanUgemuge/QRCodeGenerator.git
