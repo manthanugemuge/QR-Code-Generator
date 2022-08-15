@@ -14,8 +14,7 @@ Made using help of [Goqr Api](https://goqr.me/api/) .
 
 ## API Used
 
-- Visit Website: [Goqr Api](https://goqr.me/api/) .
-
+- Visit Website : [Goqr Api](https://goqr.me/api/) .
 
 ## How to use Project
 
