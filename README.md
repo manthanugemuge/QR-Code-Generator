@@ -21,10 +21,10 @@ Made using help of [Goqr Api](https://goqr.me/api/) .
 - Download or Clone the repository Website : 
  
 ```
-https://github.com/ManthanUgemuge/QRCodeGenerator.git
+https://github.com/ManthanUgemuge/QR-Code-Generator.git
 
 ```
-- Run Directly - [QR Code Generator](https://manthanugemuge.github.io/QRCodeGenerator/)
+- Run Directly - [QR Code Generator](https://manthanugemuge.github.io/QR-Code-Generator/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
