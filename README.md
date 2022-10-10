@@ -21,7 +21,7 @@ Made using help of [Goqr Api](https://goqr.me/api/) .
 - Download or Clone the repository Website : 
  
 ```
-https://github.com/ManthanUgemuge/QR-Code-Generator.git
+https://github.com/manthanugemuge/qr-code-generator.git
 
 ```
 
