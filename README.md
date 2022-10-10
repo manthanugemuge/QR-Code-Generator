@@ -25,6 +25,7 @@ https://github.com/ManthanUgemuge/QR-Code-Generator.git
 
 ```
 - Run Directly - [QR Code Generator](https://manthanugemuge.github.io/QR-Code-Generator/)
+Live
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
